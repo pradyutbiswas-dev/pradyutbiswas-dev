@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Pradyut Biswas 👋
+🛡️ Cybersecurity Learner | Ethical Hacking | Web Security
 
-<!--
-**pradyutbiswas-dev/pradyutbiswas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently building my skills in Cybersecurity and Ethical Hacking, with a strong focus on practical, hands-on learning.
 
-Here are some ideas to get you started:
+🔐 Skills & Learning
+🐧 Kali Linux
+🔎 Reconnaissance & Enumeration
+🌐 Web Security
+🔍 Nmap & Network Enumeration
+🛠️ Security Tools
+🧪 CTF & Security Labs
+💻 Linux & Command Line
+📚 Currently Learning
+Network & Service Enumeration
+Web Application Security
+Vulnerability Assessment
+Practical Ethical Hacking
+🎯 Goal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To become a skilled Cybersecurity Professional through continuous practical learning, security labs, and real-world projects.
+
+🧰 Tools
+
+Kali Linux Nmap Gobuster curl Burp Suite Metasploit
+
+⭐ Learning. Practicing. Building. Securing.
